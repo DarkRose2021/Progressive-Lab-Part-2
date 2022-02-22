@@ -1,0 +1,139 @@
+body{
+    background-color: #498f85;
+}
+
+header, footer{
+    font-size: 20px;
+}
+
+footer{
+    padding-top: 25px;
+    text-align: center;
+    position: static;
+}
+
+nav{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+}
+
+h1{
+    text-align: center;
+    color: #873d46;
+    text-shadow: 2px 2px #63262d;
+    font-size: 45px;
+}
+
+h2{
+    color: #63262d;
+    font-size: 35px;
+}
+
+h1, h2{
+    font-family: Blackadder ITC;
+}
+
+.h2{
+    margin-bottom: 5px;
+}
+
+p, footer{
+    color: #333466;
+}
+
+p{
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+img{
+    height: 290px;
+    width: auto;
+}
+
+.image{
+    height: 230px;
+    width: auto;
+    float: left;
+    padding-right: 25px;
+}
+
+a:link{
+    color: #a02663;
+    font-family: Bradley Hand ITC;
+    font-weight: bold;
+}
+
+a:visited{
+    color: #63262d;
+}
+
+a:active{
+    color: #498f85;
+}
+
+a:hover{
+    color: #873d46;
+}
+
+q{
+    color:#a02663;
+    font-size: 20px;
+}
+
+.quote{
+    padding-bottom: 155px;
+    padding-right: 700px;
+}
+
+.quote-header{
+    padding-left: 380px;
+}
+
+ol{
+    font-size: 20px;
+    list-style-type: upper-roman;
+}
+
+.list{
+    padding-right: 75px;
+}
+
+.websites{
+    padding-bottom: 5px;
+}
+
+table, th, td{
+    border: 2px solid;
+    border-color: #63262d;
+}
+
+table{
+    text-align: center;
+    width: auto;
+    background-color: #873d46;
+    margin-top: 25px;
+    margin-bottom: 125px;
+    margin-left: 600px;
+}
+
+th{
+    color: #333466;
+    padding-bottom: 5px;
+}
+
+td{
+    color: #333466;
+    padding-left: 5px;
+    padding-right: 30px;
+    border: 1;
+}
+
+.text{
+    margin-right: 90px;
+    margin-left: 90px;
+}
